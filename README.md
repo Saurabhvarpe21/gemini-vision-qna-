@@ -1,7 +1,8 @@
 # gemini-vision-qna-
 #This project is a Gemini AI-powered Q&A application using Streamlit and Google's **gemini-1.5-flash** model. 
 The application allows users to input questions and receive AI-generated responses, with support for image-based queries.
-[screencapture-localhost-8501-2025-03-10-11_44_08.pdf](https://github.com/user-attachments/files/19156929/screencapture-localhost-8501-2025-03-10-11_44_08.pdf)
+
+![screencapture-localhost-8501-2025-03-10-11_44_08](https://github.com/user-attachments/assets/4546bc77-93a9-4b4b-835e-445dd49d15df)
 
 
 **Features**
