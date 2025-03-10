@@ -5,6 +5,10 @@ The application allows users to input questions and receive AI-generated respons
 ![screencapture-localhost-8501-2025-03-10-11_44_08](https://github.com/user-attachments/assets/4546bc77-93a9-4b4b-835e-445dd49d15df)
 
 
+**another Question & Answer Bot answer-**
+![screencapture-localhost-8501-2025-03-10-12_18_09](https://github.com/user-attachments/assets/dd172af1-62d1-4dea-a7a0-13e7da7bed1c)
+
+
 **Features**
 
 Uses Google Gemini API for AI-generated responses.
